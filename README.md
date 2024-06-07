@@ -7,6 +7,7 @@ Fonctionnalités:
 
 Interface Admin:
 Gestion des produits : Ajouter, supprimer ou modifier les produits disponibles à la vente.
+
 Validation des paniers : Valider les paniers des clients pour finaliser les achats.
 
 Interface Client:
